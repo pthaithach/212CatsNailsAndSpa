@@ -1,0 +1,37 @@
+{
+    "data": {
+        "store"     : "Modern Spa And Nails",
+        "slug"      : "Modern-spa-and-nails",
+        "phone"     : "(717) 391-1024",
+        "email"     : "trankhevin@yahoo.com",
+        "address"   : "2200 Embassy Dr STE A, Lancaster, Pennsylvania 17603",
+        "time_1"    : "Mon - Fri: 09:00 AM - 08:00 PM",
+        "time_2"    : "Sat: 09:00 AM - 07:00 PM",
+        "time_3"    : "Sun: 11:00 AM - 05:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/ModernSpaAndNails",
+        "instagram" :   "https://www.instagram.com/modern_spa_and_nails",
+        "google"    :   "https://goo.gl/maps/wCqtCnycaAuhFfXH8",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDg2OTh8bW9kZXJuMDgwfFBBXzA4MDY1fDQ4MGFiZmUwMTY0MWZhOTljMDgwNGE2NDQ4NzdkNWE5",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3054.4510506732036!2d-76.36768234861508!3d40.04303408610394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c627669def6f2d%3A0xf4ae086c1e5aa4de!2sModern%20Spa%20and%20Nails!5e0!3m2!1sen!2s!4v1667806987921!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#262626",
+        "primary_light"         :   "#000000",
+        "primary_hover"         :   "#FFFA8A",
+        "secondary"             :   "#FFFA8A",
+        "secondary_hover"       :   "#386270",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":    "on",
+    "path_image":   "images",
+    "domain":       "http://127.0.0.1:5500"
+
+}
+
